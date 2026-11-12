@@ -1,0 +1,57 @@
+Category_MENU HỖ TRỢ
+1_CheckBox_Tự Động Đăng Xuất Acc [ Bật Khi Bị Ban Acc ]
+2_CheckBox_Chặn Tải Tài Nguyên
+Category_MENU HACK
+1001_CheckBox_Hack Map
+1007_CheckBox_Hiện Trang Cá Nhân Ban Pick
+1006_Spinner_Hiện Thời Gian Hồi Chiêu_Tắt,Dạng Chữ,Dạng Icon
+1010_CheckBox_Hiện Thời Gian Ra Bùa
+1012_CheckBox_Luôn Hiện Nút Ván Trượt
+Category_MENU ESP
+1045_CheckBox_ESP Mini Map
+1046_CheckBox_ESP Lính / Quái
+1040_CheckBox_ESP Line
+1041_CheckBox_ESP Box
+1042_CheckBox_ESP Thông Tin
+1043_CheckBox_ESP Icon Tướng
+1044_CheckBox_ESP 360
+1047_CheckBox_ESP Hiện Unti
+Category_MENU CAMERA
+1004_CheckBox_Kích Hoạt Camera
+1003_SeekBar_⊳ Camera⊲_1_20
+Category_MENU UNLOCK
+1008_CheckBox_Unlock Full Skin
+1009_CheckBox_Đổi Skin Trong Trận
+1031_Spinner_Hiệu Ứng Hạ Địch_Tắt,Nak Bạch,Allain,Capheny,Violet Thứ Nguyên,Ilumia,Tulen Gojo,Bijan,Liliana,Nak Bạch Djinn,Krixi Phù Thủy,Aya Cầu Vồng,Veres Lưu Ly,Murad Tuyệt Thế,Yena Cửu Huyền Thiên,Raz Gon,Killua
+1032_Spinner_Unlock Tùy Chọn _Chọn Nút Cần Mod,Lauriel Thứ Nguyên Vệ Thần,Eternal Sailor Moon,Thần Long Tỷ Tỷ,Eternal Sailor Chibi Moon,Butterfly Kim Ngư Thần Nữ,Butterfly Thánh Nữ,Raz Gon,Nak Killua,Airi Thứ Nguyên Vệ Thần,Yena Huyền Cửu Thiên,Veres Lưu Ly Long Mẫu,Krixi Phù thủy Thời không,Liliana Ma Pháp,Tulen Satoru Gojo,Aya Công Chúa Cầu Vồng,Bijan Lữ Hành,Billow Thiên Tướng,Birom Yuji Itadori, Bolt Baron Thiên Phủ,Butterfly Bình Nguyên Tận Thế,Capheny Càn Nguyên, Elland'orr Tuxedo,Enzo Kurapika, Florentino Kỷ Nguyên Tận Thế,Ilumia Lưỡng Nghi,Krixi Phù Thủy Thời Không,Liliana Ma Pháp Tối Thượng,Murad Thiên Luân,Murad Tuyệt Thế Thần Binh,Nakroth Bạch Diện, Nakroth Quỷ Thương,Paine Megumi,Rouie Linh Sứ Thời Không,Tel'Annas Kỷ Nguyên,Tel'Annas Lân Quang,Tulen Satoru Gojo,Valhein Thứ Nguyên Vệ Thần,Verra Thất Sát,Veres Lưu Ly Long Mẫu,Violet Nobara,Violet Thứ Nguyên Vệ Thần,Yena Trấn Yêu Thần Lộc,Zephys Kỷ Nguyên Hổ Phách,Stuart Siêu Trùm Phản Diện,Hayate Kaito Kid, Yorn Conan,Tel'Annas Thứ Nguyên Vệ Thần,Dolia Nhật Ký Yêu Tinh,Capheny Siêu Mèo Capoo,Nakroth Vệ Thần,Iggy Rim,Qi Milim Nava,Elland'orr Mộng Giới
+Category_MENU AIM
+100008_Spinner_Chọn Tướng Aim_Tắt,Elsu,Yue,Gildur,Enzo,Florentino,Grakk,Natalya,Raz
+100009_Spinner_Mục Tiêu Aim_%Máu Thấp Nhất,Máu Thấp Nhất,Khoảng Cách Gần Nhất,Gần Tia Nhất
+1048_CheckBox_Hiện Mục Tiêu Aim
+Category_MENU MACRO
+25_CheckBox_Marco Chiêu 2 Billow
+26_CheckBox_Marco Chiêu 3 Tamyn
+299_CheckBox_Marco Chiêu 2 Flo
+300_Spinner_Auto Múa Flo_Tắt,Múa Người,Múa Cả Lính / Quái / Rồng / Tà Thần (Ưu Tiên Người)
+50_CheckBox_Auto Bijan
+304_CheckBox_Auto Zata (Bấm Ult: Tự Lướt Đủ 5 Stack Rồi Bay)
+305_CheckBox_Veres - Nội Tại Vào Địch
+306_CheckBox_Preyta - Fake Hướng Chiêu 3
+307_CheckBox_Edras - Combo Đánh Thường (Cần Giảm Hồi Chiêu Từ 38%)
+308_Spinner_Yue - Tự Ra Chiêu Khi Địch Vào Tầm_Tắt,Bỏ Qua Địch Trong Bụi,Bắn Cả Vào Bụi
+309_CheckBox_Auto Hayate - Thanh Tẩy / Ngất Ngư Theo Chiêu 3
+313_CheckBox_Dirak - Chiêu 1 Xong Tự Chiêu 2 (Rơi Ngay)
+317_CheckBox_Zip - Chọn Vị Trí Lăn Kiểu Paine (Tự Tìm Đường + Tự Dừng)
+312_Spinner_Quillen - Né Chiêu / Auto Chí Mạng_Tắt,Chỉ Né,Auto Chí Mạng,Né + Auto Chí Mạng
+23_CheckBox_Auto Dùng Bộc Phá
+29_CheckBox_Auto Trừng Trị Bùa Xanh, Bùa Đỏ
+30_CheckBox_Auto Trừng Trị Rồng, Tà Thần
+302_CheckBox_Mua Bán Đồ Tự Động
+20_CheckBox_Auto Dùng Phụ Trợ
+21_SeekBar_% Máu Sử Dụng_0_101
+Category_MENU LOG ACC [ DỄ BAN ]
+928229_RadioButton_Tự Động_Tắt,Thắng,Thua
+Category_MENU BOT
+100089_CheckBox_Full Vàng
+100099_CheckBox_Full Vàng Cờ Liên Quân
+100090_CheckBox_Hủy Hồi Chiêu
